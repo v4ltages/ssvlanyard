@@ -11,5 +11,6 @@ I dunno, i just made it for the heck of it. More to play around and practice wit
 
 ## License
 This project uses the MIT License
+
 If you want more details, then read the LICENSE file.
 
