@@ -10,5 +10,6 @@ Once ur Discord User ID is monitored then just go to (https://ssvlanyard.vercel.
 I dunno, i just made it for the heck of it. More to play around and practice with Next.js 13.
 
 ## License
-
+This project uses the MIT License
+If you want more details, then read the LICENSE file.
 
