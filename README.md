@@ -4,7 +4,7 @@ Display what ur currently listening to with ur Spotify integration inside of Dis
 
 Check how to get started with [Lanyard in 10 seconds](https://github.com/Phineas/lanyard#get-started-in--10-seconds)
 
-Once ur Discord User ID is monitored then just go to (https://ssvlanyard.vercel.app/api/:your_discord_id) and embed it to anything you like.
+Once ur Discord User ID is monitored then just go to `https://ssvlanyard.vercel.app/api/:your_discord_id` and embed it to anything you like.
 
 ## Why?
 
