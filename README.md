@@ -1,4 +1,5 @@
 # Spotify Status Via Lanyard
+Display what ur currently listening to with ur Spotify integration inside of Discord using Lanyard.
 ## Getting Started
 
 Check how to get started with [Lanyard in 10 seconds](https://github.com/Phineas/lanyard#get-started-in--10-seconds)
